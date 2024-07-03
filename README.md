@@ -28,7 +28,7 @@ This project utilizes the Mbed MKL46Z microcontroller, which is based on the ARM
 - Sufficient I/O ports: Allows easy interfacing with the keypad, LCD display, and relay.
 - Mbed OS compatibility: Enables the use of Mbed libraries for rapid development.
 
-## Key features of the MKL46Z used in this project:
+## Key features of the MKL46Z:
 
 - Flash memory operations: Utilized for storing and retrieving passwords securely.
 - GPIO pins: Used for interfacing with the keypad and controlling the LCD display.
