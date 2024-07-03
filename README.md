@@ -69,6 +69,35 @@ This project utilizes the Mbed MKL46Z microcontroller, which is based on the ARM
 
 The MKL46Z's capabilities allow for efficient implementation of the access control logic, secure storage of passwords, and responsive user interface, making it an excellent choice for this security-focused application.
 
+## Power Supply Unit Schematic
+
+![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/08d48565-5446-4085-a287-2072de226768)
+
+## Battery Charger Unit
+
+![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/6b27a2ae-4373-4e5d-9ede-5487ba294496)
+
+## Relay Unit
+
+![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/26a10f65-0731-4f75-924d-238349348022)
+
+## LCD Unit
+
+![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/5656bc7c-615b-436b-bf46-74397c84a35b)
+
+## Keypad Unit
+
+![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/055c7661-f691-4170-b1f2-056f42c6d1b2)
+
+## Crystal Clock Unit
+
+![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/7717fd9b-789e-4515-b66d-92ec26ad4ea6)
+
+## Capacitor Resovoir
+
+![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/7c5cff1d-2139-4260-9298-4ea9cba03093)
+
+
 ## Software Description
 
 The software follows this general flow:
