@@ -134,4 +134,3 @@ Contributions to improve the system are welcome. Please submit pull requests or 
 
 ## License
 
-[Specify your license here]
