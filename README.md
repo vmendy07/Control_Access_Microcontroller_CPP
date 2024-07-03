@@ -47,12 +47,12 @@ The system is designed to operate continuously, returning to the "Enter Code" pr
 - `displayMessage()`: Handles flashing LCD messages
 - `saveFlash()` and `loadflash()`: Manage password storage in flash memory
   
-## Flowcharts
+## General Flowchart
 
 ![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/c7e819e8-9bba-4c0c-a1e2-3e031d7adb23)
 
 
-## ComparePassword Function
+## ComparePassword Function Flowchart
 
 The ComparePassword function is a critical component of the access control system. It compares the input password with the stored password to determine if access should be granted.
 
