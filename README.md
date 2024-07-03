@@ -14,26 +14,26 @@ This project implements a secure access control system using a microcontroller. 
 
 ## Hardware Requirements
 
-    Mbed MKL46Z microcontroller
-    Keypad
-    LCD display
-    Relay (for door control)
+- Mbed MKL46Z microcontroller
+- Keypad
+- LCD display
+- Relay (for door control)
 
 ## Mbed MKL46Z Microcontroller
 
 This project utilizes the Mbed MKL46Z microcontroller, which is based on the ARM Cortex-M0+ processor. The MKL46Z is well-suited for this application due to its:
 
-    Low power consumption: Ideal for continuous operation in an access control system.
-    Integrated Flash memory: Used for permanent storage of user codes.
-    Sufficient I/O ports: Allows easy interfacing with the keypad, LCD display, and relay.
-    Mbed OS compatibility: Enables the use of Mbed libraries for rapid development.
+- Low power consumption: Ideal for continuous operation in an access control system.
+- Integrated Flash memory: Used for permanent storage of user codes.
+- Sufficient I/O ports: Allows easy interfacing with the keypad, LCD display, and relay.
+- Mbed OS compatibility: Enables the use of Mbed libraries for rapid development.
 
 ## Key features of the MKL46Z used in this project:
 
-    Flash memory operations: Utilized for storing and retrieving passwords securely.
-    GPIO pins: Used for interfacing with the keypad and controlling the LCD display.
-    Timer functionality: Implemented for creating delays and managing display updates.
-    Low-power modes: Employed to optimize energy consumption during idle periods.
+- Flash memory operations: Utilized for storing and retrieving passwords securely.
+- GPIO pins: Used for interfacing with the keypad and controlling the LCD display.
+- Timer functionality: Implemented for creating delays and managing display updates.
+- Low-power modes: Employed to optimize energy consumption during idle periods.
 
 The MKL46Z's capabilities allow for efficient implementation of the access control logic, secure storage of passwords, and responsive user interface, making it an excellent choice for this security-focused application.
 
