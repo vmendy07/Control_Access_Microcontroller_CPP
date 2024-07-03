@@ -62,6 +62,8 @@ This project utilizes the Mbed MKL46Z microcontroller, which is based on the ARM
 
 ## Key features of the MKL46Z:
 
+![frdm-kl46z-components](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/87b39ba7-4ee2-469c-9b8e-b64663a18cba)
+
 - Flash memory operations: Utilized for storing and retrieving passwords securely.
 - GPIO pins: Used for interfacing with the keypad and controlling the LCD display.
 - Timer functionality: Implemented for creating delays and managing display updates.
