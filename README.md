@@ -49,14 +49,14 @@ The system is designed to operate continuously, returning to the "Enter Code" pr
   
 ## Flowcharts
 
-![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/a2927b80-260b-4733-882c-9c64682e8649)
+![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/c7e819e8-9bba-4c0c-a1e2-3e031d7adb23)
+
 
 ## ComparePassword Function
 
 The ComparePassword function is a critical component of the access control system. It compares the input password with the stored password to determine if access should be granted.
-![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/666d5eca-1e73-4cc5-a881-c6f28b03cdc4)
 
-
+![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/535e1600-b840-4929-b898-96c6f8df90f0)
 
 ## Setup and Usage
 
