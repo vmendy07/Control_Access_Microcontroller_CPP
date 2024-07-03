@@ -12,12 +12,44 @@ This project implements a secure access control system using a microcontroller. 
   - Lower level: Normal user access to operate relay
   - Higher level: Supervisor access to set entry codes
 
-## Hardware Requirements
+## Hardware Specifications
 
-- Mbed MKL46Z microcontroller
-- Keypad
-- LCD display
-- Relay (for door control)
+This access control system is designed with the following hardware specifications:
+
+1. **Processor**: Based on the MKL46Z processor from the Mbed platform.
+
+2. **Power Supply**: 
+   - Mains operated
+   - Backup power for 30 minutes of operation during power failure
+
+3. **Memory**: 
+   - Permanent storage for user codes (utilizing on-chip Flash memory)
+
+4. **User Interface**:
+   - Robust keypad for code entry
+   - LCD display for messages and last 4 key entries
+
+5. **Output**:
+   - Relay output for standard door-strike mechanism operation
+
+6. **Design Considerations**:
+   - Simple and ergonomic circuit design
+   - Optimized for volume production
+   - Compatible for installation anywhere in the UK
+
+7. **Durability**:
+   - Robust construction for reliable operation in various environments
+
+These specifications ensure that the access control system is reliable, user-friendly, and suitable for widespread deployment in various settings across the UK. The use of the MKL46Z processor, combined with permanent storage and a backup power system, provides a solid foundation for a secure and dependable access control solution.
+
+## High Level Hardware Design
+
+![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/0fc2d871-ee4a-4401-84ec-2b542bae8989)
+
+## Hardware Schematic
+
+![image](https://github.com/vmendy07/Control_Access_Microcontroller_CPP/assets/165968387/1746a7c3-07f1-450d-ad85-7259b83c41cd)
+
 
 ## Mbed MKL46Z Microcontroller
 
